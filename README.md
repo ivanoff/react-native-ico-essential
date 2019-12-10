@@ -2,7 +2,7 @@
 
 ### Essential Icons for React Native
 
-369 Icons
+380 Icons
 
 ## Usage
 
@@ -15,8 +15,8 @@ render() {
     return (
         <Fragment>
           <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="pin" height="40" width="40" />
+          <Icon name="trash" color="red" />
         </Fragment>
     );
 }
