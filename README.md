@@ -1,6 +1,6 @@
-# react-native-ico-essential
+# Essential Icons for React Native
 
-### Essential Icons for React Native
+### react-native-ico-essential
 
 380 Icons
 
@@ -13,15 +13,19 @@ import Icon from 'react-native-ico-essential';
 // Inside some view component
 render() {
     return (
-        <Fragment>
+        <>
           <Icon name="home" />
           <Icon name="pin" height="40" width="40" />
           <Icon name="trash" color="red" />
-        </Fragment>
+        </>
     );
 }
 
 ```
+
+## List of icons
+
+- [List of Essential Icons](static/essential.md)
 
 ## Installation
 
@@ -63,13 +67,9 @@ width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
-## List of icons
-
-- [List of Essential Icons](static/essential.md)
-
 ## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
+[Smashicons](https://www.flaticon.com/authors/smashicons)
 
 ## Created by
 
