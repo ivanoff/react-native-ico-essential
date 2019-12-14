@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Essential Icons](static/essential.md)
+- [List of Essential Icons](http://ico.simpleness.org/pack/essential)
 
 ## Installation
 
