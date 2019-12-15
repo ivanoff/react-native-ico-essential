@@ -1,8 +1,8 @@
-# Essential Icons for React Native
+# essential Icons for React Native
 
 ### react-native-ico-essential
 
-380 Icons
+369 Icons
 
 ## Usage
 
@@ -15,8 +15,8 @@ render() {
     return (
         <>
           <Icon name="home" />
-          <Icon name="pin" height="40" width="40" />
-          <Icon name="trash" color="red" />
+          <Icon name="file" height="40" width="40" />
+          <Icon name="smile" color="red" />
         </>
     );
 }
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Essential Icons](http://ico.simpleness.org/pack/essential)
+- [List of essential Icons](http://ico.simpleness.org/pack/essential)
 
 ## Installation
 
@@ -69,7 +69,7 @@ height | yes | 20 | height of the icon | 40
 
 ## Icons Made by
 
-[Smashicons](https://www.flaticon.com/authors/smashicons)
+[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
 
 ## Created by
 
