@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-essential",
-  "version": "2.1.1",
+  "version": "2.2.1",
   "description": "essential Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
