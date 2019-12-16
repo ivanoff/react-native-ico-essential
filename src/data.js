@@ -1,4 +1,4 @@
-module.exports = `
+module.exports = {
 	'add-1': `<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 44 44" style="enable-background:new 0 0 44 44;" xml:space="preserve">
 <path d="M22,44c-3.309,0-6-2.665-6-5.941V28H5.941C2.665,28,0,25.309,0,22s2.665-6,5.941-6H16V5.941C16,2.665,18.691,0,22,0
@@ -8798,4 +8798,4 @@ module.exports = `
 		S2.983,31.477,2.983,21z"/>
 </g>
 </svg>
-``
+`}
