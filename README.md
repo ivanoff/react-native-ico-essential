@@ -1,8 +1,8 @@
-# essential Icons for React Native
+# Essential Icons for React Native
 
 ### react-native-ico-essential
 
-369 Icons
+380 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of essential Icons](http://ico.simpleness.org/pack/essential)
+- [List of Essential Icons](http://ico.simpleness.org/pack/essential)
 
 ## Installation
 
