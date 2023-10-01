@@ -1,5 +1,6 @@
 declare module 'react-native-ico-essential' {
     import { ReactNode } from 'react';
+    import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'add-1' |
       'add-2' |
@@ -413,7 +414,7 @@ declare module 'react-native-ico-essential' {
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
 
     export { iconNames };
     export default Icon;
